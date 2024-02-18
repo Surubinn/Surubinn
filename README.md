@@ -3,7 +3,7 @@
 - ### Connect with me
   
 ![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-)
+)(https://discord.gg/mAjvaCKW4s)
 
   ###                               Skills
 
