@@ -6,7 +6,7 @@
 )](https://discord.gg/mAjvaCKW4s) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/alex_0ftz/)
 
-  ###                               Skills
+  ### ㅤㅤㅤㅤ       ㅤㅤㅤ             Skills
 
 - Language
 
