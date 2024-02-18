@@ -16,17 +16,16 @@
 )
 
 
+- IDE
+
+![Blog](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+)
 
 
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
-- IDE
-
-![Blog](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
-)
 
 
 
